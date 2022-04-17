@@ -17,7 +17,7 @@ O mundo como o conheceu caiu em um cenário apocalíptico. Um vírus produzido e
 * factory_boy==3.2.1
 * Faker==13.3.4
 
-##. env
+## .env
 * SECRET_KEY= Uma chave secreta do django que pode ser gerada [aqui](https://djecrety.ir/).
 * DEBUG= True ou False
 * DBUSER= O nome de usuario no banco de dados postgres
