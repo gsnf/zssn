@@ -30,7 +30,7 @@ O mundo como o conheceu caiu em um cenário apocalíptico. Um vírus produzido e
 * certifque-se que o postgres está ativo
 * certifque-se que todos os requerimentos estão instalados
 * no terminal, navegue para a pasta do projeto ```  ~/.../zssn/’  ```  
-* execute no terminal ```  python manage.py migrate```   para iniciar o servidor
+* execute no terminal ```  python manage.py runserver```   para iniciar o servidor
 * a ação acima deve mostrar o endereço a ser usado, como no exemplo abaixo:
 >![Screenshot](https://i.imgur.com/633vvwx.png "Exemplo")
 
