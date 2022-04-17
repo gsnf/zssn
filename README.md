@@ -28,8 +28,8 @@ O mundo como o conheceu caiu em um cenário apocalíptico. Um vírus produzido e
 
 ## Como executar
 * certifque-se que o postgres está ativo
+* certifque-se que todos os requerimentos estão instalados
 * no terminal, navegue para a pasta do projeto ```  ~/.../zssn/’  ```  
-* execute no terminal ```  source venv/bin/activate```   para usar o ambiente virtual
 * execute no terminal ```  python manage.py migrate```   para iniciar o servidor
 * a ação acima deve mostrar o endereço a ser usado, como no exemplo abaixo:
 >![Screenshot](https://i.imgur.com/633vvwx.png "Exemplo")
